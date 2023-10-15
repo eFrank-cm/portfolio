@@ -1,4 +1,3 @@
-import { Carousel } from "../components/Carousel"
 import { Modal } from "../components/Modal"
 
 export const Studies = () => {
