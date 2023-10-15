@@ -1,0 +1,50 @@
+// importar base
+@import "./base/settings.scss";
+
+// import func, var and mixins Bootstrap
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/variables";
+@import "bootstrap/scss/mixins";
+
+// ---- COMPONENTS ----
+@import "./components/navbar.scss";
+@import "./components/carousel.scss";
+@import "./components/modal.scss";
+
+// ---- PAGES ----
+@import "./pages/about.scss";
+@import "./pages/data.scss";
+@import "./pages/experience.scss";
+@import "./pages/proyects.scss";
+@import "./pages/studies.scss";
+
+
+// Add things Bootstrap
+// Create your own map
+$custom-colors: (
+  "graya": #252525,
+  "grayb": #181818
+);
+
+
+// Merge the maps
+$theme-colors: map-merge($theme-colors, $custom-colors);
+
+// Import all of Bootstrap's CSS
+@import "bootstrap/scss/bootstrap";
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+// Styles to main
+.content {
+  height: 100%;
+  width: 100%;
+  min-height: 100vh;
+  // background: linear-gradient(245.59deg, #202c33 0%, #1a1f22 28.53%,  #121212 75.52%);
+  // background: linear-gradient(245.59deg, #1c2328 0%, #171b1d 28.53%,  #121212 75.52%);
+  background: linear-gradient(245.59deg, #1e1815 3%, #181514 37.53%, #121212 60.52%);
+}
+
+#data {
+  width: 40%;
+  position: fixed;
+}

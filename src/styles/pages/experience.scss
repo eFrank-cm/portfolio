@@ -1,0 +1,44 @@
+.div-tags span {
+    margin-right: 1rem * 0.5;
+    margin-bottom: 1rem * 0.5;
+}
+
+.badge {
+    border: 1px solid #884115;
+    background-color: #3d2214;
+}
+
+
+.experiencie-card {
+    display: flex;
+    margin: 2rem 0rem;
+    padding: 1rem .5rem;
+    text-decoration: none;
+    color: white;
+
+    .div-img {
+        width: 30%;
+        padding: 1rem * .50;
+
+        img {
+            border: 2px solid #343434;
+            width: 100%;
+            border-radius: 1rem * 0.25;
+        }
+    }
+
+    .div-text {
+        width: 70%;
+    }
+}
+
+.experiencie-card:hover {
+    // background: rgba(255, 255, 255, 0.02);
+    background: rgba($color: $primary, $alpha: 0.03);
+    box-shadow: 0 8px 25px 0 rgba($color: $primary, $alpha: 0.09);
+    backdrop-filter: blur(2px);
+    border: 1px solid rgba($color: #343434, $alpha: 0.3);
+    border-radius: 1rem;
+    color: $primary;
+    // cursor: default;
+}

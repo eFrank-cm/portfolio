@@ -1,0 +1,30 @@
+nav {
+    width: 40%;
+    // border: 1px solid white;
+
+    a {
+        // border: 1px solid white;
+        display: flex;
+        font-family: 'Kanit', sans-serif;
+        text-decoration: none;
+        margin: 1rem 0;
+        color: $primary;
+        opacity: 0.5;
+    }
+
+    .line {
+        height: 1px;
+        width: 15%;
+        background-color: $primary;
+        margin: auto 10px;
+        transition: width 0.3s;
+    }
+
+    a:hover, .active {
+        opacity: 1;
+        .line {
+            // background-color: red;
+            width: 40%;
+        }
+    }
+}

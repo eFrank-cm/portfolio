@@ -1,0 +1,74 @@
+.card-proyect {
+    display: flex;
+    margin: 2rem 0rem;
+    padding: 1rem .5rem;
+    text-decoration: none;
+
+    .div-img {
+        width: 30%;
+        padding: 1rem * .50;
+
+        img {
+            border: 2px solid #343434;
+            width: 100%;
+            border-radius: 1rem * 0.25;
+        }
+    }
+
+    .div-text {
+        width: 70%;
+    }
+}
+
+.card-proyect:hover {
+    // background: rgba(255, 255, 255, 0.02);
+    background: rgba($color: $primary, $alpha: 0.03);
+    box-shadow: 0 8px 25px 0 rgba($color: $primary, $alpha: 0.09);
+    backdrop-filter: blur(2px);
+    border: 1px solid rgba($color: #343434, $alpha: 0.3);
+    border-radius: 1rem;
+    color: $primary;
+    cursor: default;
+}
+
+.links {
+    // border: 1px solid red;
+    display: flex;
+    // justify-content: space-between;
+    gap: 1rem;
+    margin-top: 1rem;
+
+    // .code {
+    //     // border: 1px solid green;
+    //     // padding: 1rem * 0.125;
+    // }
+
+    .view {
+
+        // border: 1px solid green;
+        // padding: 1rem * 0.125;
+        i {
+            // background-color: red;
+            font-size: 17px;
+        }
+    }
+
+    a {
+        text-decoration: none;
+        color: rgb(223, 217, 217);
+        border: 1px solid #884115;
+        background-color: #3d2214;
+        padding: 0 1rem * 0.125;
+        border-radius: 1rem * 0.75;
+    }
+
+    p {
+        display: inline;
+        padding: 0 1rem * 0.25;
+        // font-family: 'Kanit', sans-serif;
+    }
+
+    i {
+        padding: 0 1rem * 0.25;
+    }
+}

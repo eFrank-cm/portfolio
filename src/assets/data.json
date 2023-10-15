@@ -1,0 +1,49 @@
+{
+    "unsaac" : [
+        {
+            "id": 1, 
+            "logo": "informatica.jpeg", 
+            "title": "Bachiller en Ing. Informatica y de Sistemas 1/2", 
+            "url": "bachiller1.png"
+        },
+        {
+            "id": 2, 
+            "logo": "informatica.jpeg", 
+            "title": "Bachiller en Ing. Informatica y de Sistemas 2/2", 
+            "url": "bachiller2.png"
+        },
+        {
+            "id": 3, 
+            "logo": "cci.jpeg", 
+            "title": "Certificado de Ofimatica 1/2", 
+            "url": "ofimatica1.png"
+        },
+        {
+            "id": 4, 
+            "logo": "cci.jpeg", 
+            "title": "Certificado de Ofimatica 2/2", 
+            "url": "ofimatica2.png"
+        }
+    ],
+
+    "platzi" : [
+        {
+            "id": 1, 
+            "logo": "logoS.webp", 
+            "title": "Curso Basico de JavaScript", 
+            "url": "diploma-basico-javascript_page-0001.jpg"
+        },
+        {
+            "id": 2, 
+            "logo": "logoS.webp", 
+            "title": "Curso Basico de PHP", 
+            "url": "diploma-php-arreglos-funciones_page-0001.jpg"
+        },
+        {
+            "id": 3, 
+            "logo": "logoS.webp", 
+            "title": "Curso de Integracion PHP con HTML",
+            "url": "diploma-php-html_page-0001.jpg"
+        }
+    ]
+}
