@@ -2,7 +2,7 @@ import './styles/app.scss'
 import { Proyects } from './pages/Proyects'
 import { Data } from './pages/Data'
 import { Experience } from './pages/Experience'
-import { Studies } from './pages/studies'
+import { Studies } from './pages/Studies'
 import { About } from './pages/About'
 
 export const App = () => {
