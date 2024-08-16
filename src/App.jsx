@@ -20,8 +20,8 @@ export const App = () => {
                     <hr />
                     <div className="footer">
                         <p className='parrafo mb-5'>
-                            ¡Estoy aquí para ayudarte con tus proyectos! Puedes <a target='_blank' href="https://drive.google.com/file/d/1mPam5uIBcWfUIwIryZ2a-e1m52ZTJwFL/view?usp=drive_link">ver mi CV</a> y contactarme en mis redes
-                            sociales para colaborar juntos en nuevas oportunidades. ¡Hablemos pronto!
+                            {/* ¡Estoy aquí para ayudarte con tus proyectos! Puedes <a target='_blank' href="https://drive.google.com/file/d/1mPam5uIBcWfUIwIryZ2a-e1m52ZTJwFL/view?usp=drive_link">ver mi CV</a> y contactarme en mis redes
+                            sociales para colaborar juntos en nuevas oportunidades. ¡Hablemos pronto! */}
                         </p>
                     </div>
                 </div>

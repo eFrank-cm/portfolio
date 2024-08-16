@@ -9,11 +9,11 @@ export const Data = () => {
                         <a className="text-decoration-none text-white" href="/">Elizon Frank </a>
                     </h1>
                 </div>
-                <p className="parrafo fs-4">Web Developer & AI Engineer</p>
+                <p className="parrafo fs-4">Web Developer</p>
                 <div className="w-75 mt-4">
                     <p className='parrafo'>
-                        Construyo productos y experiencias digitales accesibles ofreciendo soluciones
-                        innovadoras mediante plataformas web.
+                        Apasionado por la tecnología y sus aplicaciones.
+                        Integro la creatividad y la técnica para potenciar proyectos con IA.
                     </p>
                 </div>
             </div>

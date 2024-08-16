@@ -14,16 +14,16 @@ export const Proyects = () => {
                         <h5>Prediccion de tiempos de viaje Multivariable-unistep</h5>
                         <p className="parrafo-sm">
                             Machine Learning · Modelo de IA desarrollado con redes neuronales LSTM y ConvLSTM
-                            para predecir el tiempo de llegada de autobuses de transporte publico. Analiza el tiempo 
-                            de viaje de un paradero a atro, de varios instantes anteriores para predecir un instante 
-                            en el futuro con un error de 19.55 seg.  
+                            para predecir el tiempo de llegada de autobuses de transporte publico. Analiza el tiempo
+                            de viaje de un paradero a atro, de varios instantes anteriores para predecir un instante
+                            en el futuro con un error de 19.55 seg.
                         </p>
                         <div className="links">
                             <a className="code" href="https://github.com/eFrank-cm/travel-time-prediction" target="_blank">
                                 <i className="bi bi-github"></i>
                                 <p>Github</p>
                             </a>
-                            <a className="view" href="https://drive.google.com/file/d/1dMFXTXg93gUcNCzgH0ew5W_lXitR0kE6/view?usp=drive_link" target="_blank">
+                            <a className="view" href="https://www.researchgate.net/publication/381820175_Multivariable-Unistep_Prediction_of_Travel_Times_in_Public_Transport_Buses_Using_LSTM_and_Convolutional_LSTM" target="_blank">
                                 <i className="bi bi-file-earmark-pdf"></i>
                                 <p>Articulo</p>
                             </a>
@@ -62,7 +62,7 @@ export const Proyects = () => {
                         <h5>Sistema de Boletas</h5>
                         <p className="parrafo-sm">
                             Desarrollo Full Stack · Aplicacion web para el control del boletas, con sistema de login y
-                            control de usuario para gestionar la accesibilidad funcionalidades.  
+                            control de usuario para gestionar la accesibilidad funcionalidades.
                         </p>
                         <div className="links">
                             <a className="code" href="https://github.com/eFrank-cm/ProjectsUGEL" target="_blank">

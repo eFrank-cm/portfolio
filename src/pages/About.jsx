@@ -25,14 +25,14 @@ export const About = () => {
                 </div>
                 {/* <img src="perfil.png" width={150} height={150} /> */}
                 <p className="parrafo part-one mb-3">
-                    Como <span className="enfasis">Ingeniero Informatico</span>,
-                    soy un profesional capacitado en el desarrollo de <span className="enfasis">Sistemas de TI</span> o en
-                    el diseño de soluciones innovadoras acorder a las nuevas tecnologias.
+                    Con una sólida experiencia en el <span className="enfasis">Desarrollo Web</span> e
+                    investigación en <span className="enfasis">Inteligencia Artificial</span> me dedico
+                    a crear soluciones eficientes e innovadoras.
                 </p>
                 <p className="parrafo part-two mb-3">
-                    Debido a mi experiencia laboral y en proyectos de investigacion, me especializo
-                    en el desarrollo web <span className="enfasis">Frontend - Backend</span>, <span className="enfasis">Inteligencia Artificial</span>, <span className="enfasis">Bases de Datos</span> y <strong>Soporte Tecnico</strong>.
-                    Estoy comprometido con mantenerme actualizado en las últimas tecnologías y tendencias del mercado.
+                    Mi trayectoria incluye el desarrollo de sistemas <span className="enfasis">Frontend</span>, <span className="enfasis">Backend</span> y
+                    diseño de <span className="enfasis">Bases de Datos</span>. Como <span className="enfasis">Ingeniero informático</span> estoy
+                    compromedito a resolver las necesidades de software de acuerdo con las ultimas tecnologias
                 </p>
                 {/* <p className="parrafo" hidden>
                     Cuando no estoy frente a la computadora, normalmente estoy tocando algunos de los

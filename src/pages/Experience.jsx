@@ -18,9 +18,9 @@ export const Experience = () => {
                             <p className="m-0 px-1">Langui</p>
                         </div>
                         <p className="parrafo-sm">
-                            <span className="enfasis">Soporte informático</span> y <span className="enfasis">Mantenimiento de redes</span>. <span className="enfasis">Administración</span> de 
-                            los recursos tecnologicos de la I.E, charlas de capacitación en temas de 
-                            TI, diseño de banners y <span className="enfasis">Operador de audio</span> para 
+                            <span className="enfasis">Soporte informático</span> y <span className="enfasis">Mantenimiento de redes</span>. <span className="enfasis">Administración</span> de
+                            los recursos tecnologicos de la I.E, charlas de capacitación en temas de
+                            TI, diseño de banners y <span className="enfasis">Operador de audio</span> para
                             las actividades organizadas.
                         </p>
                         <div className="div-tags mt-2">
@@ -42,11 +42,12 @@ export const Experience = () => {
                             <p className="m-0 px-1">Cusco</p>
                         </div>
                         <p className="parrafo-sm">
-                            Desarrollo de un modelo de <span className="enfasis">Machine Learning</span> que predice 
-                            el tiempo de viaje de los autobuses a sus paraderos. En colaboracion con la 
+                            Desarrollo de un modelo de <span className="enfasis">Inteligencia Artificial</span> que predice
+                            el tiempo de viaje de los autobuses a sus paraderos. Con datos de la
                             empresa de transporte de Patron San Jeronimo se formula un proyecto
-                            de investigacion que busca innovar con <span className="enfasis">Inteligencia Articial</span> la experiencia
-                            de los usuarios y su publicacion como <span className="enfasis">articulo cientifico</span>.
+                            de investigacion que busca innovar la experiencia
+                            de los usuarios y su publicacion como <span className="enfasis">Articulo cientifico</span> presentado
+                            en la conferencia cientifia <span className="enfasis">SIMBig 2023</span>.
                         </p>
                         <div className="div-tags mt-2">
                             <span className="badge rounded-pill">Python</span>
@@ -68,11 +69,11 @@ export const Experience = () => {
                             <p className="m-0 px-1">Sicuani</p>
                         </div>
                         <p className="parrafo-sm">
-                            Soporte informatico, mantenimiento de redes, manejo de 
+                            Soporte informatico, mantenimiento de redes, manejo de
                             sistemas WordPress. <span className="enfasis">
-                            Desarrollo web</span> incluyendo un sistema <span className="enfasis">CRUD</span> para 
-                            el control de boletas en Certificacion de Pagos y <span className="enfasis">herramientas de busqueda</span> para 
-                            el area de Gestion Institucional y AGP. Operador audiovisial y 
+                                Desarrollo web</span> incluyendo un sistema <span className="enfasis">CRUD</span> para
+                            el control de boletas en Certificacion de Pagos y <span className="enfasis">herramientas de busqueda</span> para
+                            el area de Gestion Institucional y AGP. Operador audiovisial y
                             asistencia <span className="enfasis">livestreaming</span>.
                         </p>
                         <div className="div-tags mt-2">
